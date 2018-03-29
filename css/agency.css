@@ -88,21 +88,6 @@ section h3.section-subheading {
   background: #fed136;
   text-shadow: none;
 }
-#contentwrapper {
-width: 90%;
-margin-right: auto;
-margin-left: auto;
-}
-#content {
-padding-left: 260px;
-}
-#right {
-float: right;
-width: 25%;
-}
-#rightImgdiv {
-width: 100%;
-}
 
 img::selection {
   background: transparent;
